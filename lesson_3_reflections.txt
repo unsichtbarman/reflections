@@ -6,4 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	You probably want to have control over when you send changes to the remote repository, much as you want control over your local repository.
 
-	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	A branch is when you make changes to the main branch of commits. This may be merged - automatically or manually - at a later point. A clone is where you take a copy of a respository and use this on your own computer. This may be local or remote. A Fork is when you take a clone of a remote repository but keep a link back to the original in GitHub
